@@ -8,7 +8,7 @@
 //------------------------------------------------------------------------------
 
 namespace Nemetos.BCH.Importers.UrlInfo {
-    
+    asdasdasd
     
     public partial class UrlInfo {
         
