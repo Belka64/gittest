@@ -10,7 +10,7 @@ namespace Nemetos.BCH.Importers.UrlInfo
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            
+            asdadadasdas
         }
 
         protected void GetInfoAboutUrlButtonClick(object sender, EventArgs e)
